@@ -1,0 +1,20 @@
+.header{
+	float:left;
+	padding:5px 25px;
+	font-family:"impact";
+	font-size:15px;
+}
+.pict{
+	padding:5px;
+	font-family:"impact";
+	font-size:25px;
+	color:#FF6928;
+}
+.comment{
+	font-family: cursive;
+	font-size:15px;
+	color: #FF6928;
+}
+.main{
+	padding: 30px 100px;
+}
